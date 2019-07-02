@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TestBranching
 {
-    public partial class Form1 : Form
+    public partial class TestUi : Form
     {
-        public Form1()
+        public TestUi()
         {
             InitializeComponent();
         }
